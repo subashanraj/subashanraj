@@ -7,7 +7,7 @@
 
 Welcome to my Portfolio!
 
-I'm Subashan Raj, Learning MERN Stack web development with full of enthusiasm <b>Tamil Nadu.</b> 
+I'm Subashan Raj, Learning MERN Stack web development with full of enthusiasm from <b>Tamil Nadu.</b> 
 
 
  
