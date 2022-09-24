@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Rambabu...;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Subashan Raj...;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
@@ -64,11 +64,11 @@ I'm Subashan Raj, Learning MERN Stack web development with full of enthusiasm <i
 
 ## 😄 Cool Streak Stats
  
-![Rambabu's GitHub stats](https://github-readme-stats.vercel.app/api?username=RambabuMS&show_icons=true&theme=radical)
+![Rambabu's GitHub stats](https://github-readme-stats.vercel.app/api?username=subashanraj&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RambabuMS&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subashanraj&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RambabuMS&layout=compact&theme=radical&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subashanraj&layout=compact&theme=radical&langs_count=6)
 
 
 
